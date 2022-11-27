@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/kuchar_casnik.dir/main.c.o -o kuchar_casnik  -lpthread 
